@@ -63,7 +63,7 @@ The files in this repository go through the data pipeline in a basic sense. Look
 
 ### Software Setup
 
-Jupyter Notebook (or another python environment), Excel, Kaggle. For Jupyter Notebook, some libraries you will need are: Matplotlib, Seaborn, Numpy, Pandas, Scikit-learn, and any other python library you feel you may need. These can generally be installed quite easily in Jupyter Notebook. For the kaggle dataset, please see the link below. Challenge datasets require that you agree to the terms of the competition before you can download them (which requires an account). 
+Jupyter Notebook (or another python environment), Excel, Kaggle. For Jupyter Notebook, some libraries you will need are: Matplotlib, Seaborn, Numpy, Pandas, Scikit-learn, and any other python library you feel you may need. These can generally be installed quite easily in program itself using the "pip install" command. For the kaggle dataset, please see the link below. Challenge datasets require that you agree to the terms of the competition before you can download them (which requires an account). 
 
 https://www.kaggle.com/datasets/shubhammeshram579/bank-customer-churn-prediction
 
